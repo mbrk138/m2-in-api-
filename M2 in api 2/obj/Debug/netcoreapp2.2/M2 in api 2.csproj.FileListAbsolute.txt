@@ -1,0 +1,18 @@
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\M2 in api 2.deps.json
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\M2 in api 2.runtimeconfig.json
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\M2 in api 2.runtimeconfig.dev.json
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\M2 in api 2.dll
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\bin\Debug\netcoreapp2.2\M2 in api 2.pdb
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.RazorAssemblyInfo.cache
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.RazorAssemblyInfo.cs
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.dll
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.pdb
+C:\Users\Mohammad\source\repos\M2 in api 2\M2 in api 2\obj\Debug\netcoreapp2.2\M2 in api 2.genruntimeconfig.cache
